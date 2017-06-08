@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationToast</string>
+    <string name="show_toast_string">Show Toast</string>
+    <string name="toast_message_string">You\'re Toast</string>
+</resources>
