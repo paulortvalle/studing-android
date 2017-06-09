@@ -20,8 +20,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
 
-                sendBroadcast(new Intent(CUSTOM_INTENT),
-                        android.Manifest.permission.VIBRATE);
+                sendBroadcast(new Intent(CUSTOM_INTENT), android.Manifest.permission.VIBRATE);
             }
         });
 
