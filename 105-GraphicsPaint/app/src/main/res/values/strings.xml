@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GraphicsPaint</string>
+    <string name="text_literal">Hello Word!</string>
+    <string name="long_text">This is a lot of Text. This is even more Text.</string>
+</resources>
