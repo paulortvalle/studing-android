@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GraphicsValueAnimator</string>
+    <string name="button_label">Animate</string>
+</resources>
