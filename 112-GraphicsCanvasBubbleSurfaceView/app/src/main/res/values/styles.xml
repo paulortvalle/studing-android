@@ -1,0 +1,14 @@
+<resources>
+
+    <color name="background_color">#FF444444</color>
+
+    <style name="CustomBackground" parent="android:Theme.Holo">
+        <item name="android:colorBackground">@color/background_color</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
